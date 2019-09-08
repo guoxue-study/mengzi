@@ -1,8 +1,8 @@
 # 《孟子》胶片版
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d04c0d0f-965e-4bc6-95cd-bf78bca2fba7/deploy-status)](https://app.netlify.com/sites/shi-ji/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/73066fe2-b1f9-4607-9117-d026b24fbd96/deploy-status)](https://app.netlify.com/sites/mengzi/deploys)
 
-TLDR: [https://shiji.qiaopang.com](https://shiji.qiaopang.com)
+TLDR: [https://mengzi.qiaopang.com](https://mengzi.qiaopang.com)
 
 制作《孟子》胶片版的原因见：[《资治通鉴》胶片版](https://github.com/tyrchen/tongjian)。
 
